@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supriya D</h1>
-<h3>As a Software Intern at X-workz, I am gaining hands-on experience in full-stack development, with a strong focus on Java-based technologies. My internship involves working on real-world projects.</h3>
+<h3>As a Software Intern at X-workz, I am gaining hands-on experience in full-stack development, with a strong focus on Java-based technologies.My internship involves working on real-world projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyad16&label=Profile%20views&color=0e75b6&style=flat" alt="supriyad16" /> </p>
 
