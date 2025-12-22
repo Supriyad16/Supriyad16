@@ -2,6 +2,7 @@
 
 ###
 ###
+
 <p align="left">As a Software Intern at X-workz, I am gaining hands-on experience in full-stack development, with a strong focus on Java-based technologies. My internship involves working on real-world projects.
   
 </p>
